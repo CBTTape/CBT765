@@ -1,0 +1,13 @@
+2023-08-06 06:57:28.094795 - Initialized conversion of CBT765
+2023-08-06 06:57:28.200127 - Received CBT.V505.FILE765.PDS from FILE765.XMI 
+2023-08-06 06:57:28.202918 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE765.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:57:28.203966 - Found $$$INTRO.txt (text/plain) in CBT.V505.FILE765.PDS, moved to PDS/$$$INTRO
+2023-08-06 06:57:28.205016 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE765.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:57:28.206103 - Found @FILE765.txt (text/plain) in CBT.V505.FILE765.PDS, moved to PDS/@FILE765
+2023-08-06 06:57:28.207139 - Found B64DEC.txt (text/plain) in CBT.V505.FILE765.PDS, moved to PDS/B64DEC
+2023-08-06 06:57:28.208089 - Found B64ENC.txt (text/plain) in CBT.V505.FILE765.PDS, moved to PDS/B64ENC
+2023-08-06 06:57:28.208986 - Found NEEDTOK.txt (text/plain) in CBT.V505.FILE765.PDS, moved to PDS/NEEDTOK
+2023-08-06 06:57:28.209969 - Found RACAUTH.txt (text/plain) in CBT.V505.FILE765.PDS, moved to PDS/RACAUTH
+2023-08-06 06:57:28.246766 - Found RACFAUTH.xmi (application/xmit) in CBT.V505.FILE765.PDS
+2023-08-06 06:57:28.250679   - Received to CBT765/RACFAUTH.RX
+2023-08-06 06:57:28.250772 - Found SCREENSH.jpg containing image/jpeg, moved to PDS/SCREENSH
